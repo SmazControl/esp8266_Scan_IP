@@ -1,5 +1,5 @@
 # esp8266_Scan_IP
-COde Auto Scan IP but not already
+Code Auto Scan IP
 
 
 Base on https://github.com/boblemaire/asyncHTTPrequest
